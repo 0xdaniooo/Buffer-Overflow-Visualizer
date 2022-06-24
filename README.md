@@ -10,7 +10,7 @@ A Python Tkinter GUI app designed to visualize the buffer overflow security vuln
 - Registers (base pointer and register pointer)
 - Code and program views 
 
-# x32 Archiecture Example
+# x32 Architecture Example
 ![x32 Arch](/Imgs/1.png)
 
 # x64 Architecture Example
