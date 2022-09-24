@@ -18,7 +18,7 @@ A Python Tkinter GUI app designed to visualize the buffer overflow security vuln
 
 ## YouTube Video Showcase
 If you want to see the program in action click the link below
-https://www.youtube.com/watch?v=OFz46cKP9Pk
+- https://www.youtube.com/watch?v=OFz46cKP9Pk
 
 ## x32 Architecture Example
 ![x32 Arch](/Imgs/1.png)
