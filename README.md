@@ -8,12 +8,17 @@ A Python Tkinter GUI app designed to visualize the buffer overflow security vuln
 - Interactive buffer size and input text
 - Stack view 
 - Registers (base pointer and register pointer)
-- Code and program views 
+- Code and program views reflecting current state of the program
 
 # Usage
 ```
-- Run the buffer_overflow_visualizer.py script with Python
+- Run the buffer_overflow_visualizer.py script with Python:
+  python buffer_overflow_visualizer.py
 ```
+
+# YouTube Video Showcase
+If you want to see the program in action click the link below
+https://www.youtube.com/watch?v=OFz46cKP9Pk
 
 # x32 Architecture Example
 ![x32 Arch](/Imgs/1.png)
