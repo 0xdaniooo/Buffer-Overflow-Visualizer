@@ -1,6 +1,9 @@
 # Buffer-Overflow-Visualizer
 A Python Tkinter GUI app designed to visualize the buffer overflow security vulnerability in an easy to understand interactive format.
 
+## About
+For a long time I had been fascinated by the buffer overflow vulnerability and the lower level workings of computer code. I really wanted to do something with this concept which led me to create this educational tool which visualises how it all happens both code wise and memory wise. There were no such programs on the web which I decided to change as learning from diagrams can be quite hard for some (as was the case for me). With plenty of interactivity and customization, I have managed to create this easy to use cybersecurity resource.
+
 ## Features
 - x32 and x64 architectures
 - Little and Big endian
